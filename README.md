@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kshitij Datta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **E-Commerce website**
+- 🔭 I’m currently working on **Real-time Collaborative Editor using Websockets**
 
 - 🌱 I’m currently learning **ReactJs, ReactNative, NodeJS & MongoDB**
 
 - 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **kshitijdatta14@gmail.com**
+- 📫 How to reach me **kshitijdatta.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
